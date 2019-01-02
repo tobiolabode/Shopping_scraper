@@ -32,10 +32,9 @@ git clone https://github.com/tobiolabode/Shopping_scraper.git
 python main.py
 ```
 The command line should print some results like this:
+![alt text](https://github.com/tobiolabode/Shopping_scraper/blob/master/Commard-propmt.PNG)
 
-
-
-
+The program should also write an csv file of the contents.
 
 
 
