@@ -23,7 +23,7 @@ pip install Beautifulsoup
 Clone your the resporsiry to your local enviroment.
 
 ```
-git clone ...
+git clone https://github.com/tobiolabode/Shopping_scraper.git
 ```
 
 ## Usage 
@@ -31,6 +31,8 @@ git clone ...
 ```
 python main.py
 ```
+The command line should print some results like this:
+
 
 
 
